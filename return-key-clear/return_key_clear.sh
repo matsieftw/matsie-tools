@@ -1,4 +1,3 @@
-#!/bin/sh
 declare empty_counter=0
 
 precmd_hook() {
