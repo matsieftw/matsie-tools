@@ -4,7 +4,7 @@ Simple shell function to create a subdirectory and then cd into it. Requires ful
 
 ## Installation
 
-Copy contents of txt file and paste it into your `.bashrc`, `.zshrc` or whatever file you implement shell functions in.
+Copy contents of `cmdir.sh` and paste it into your `.bashrc`, `.zshrc` or whatever file you implement shell functions in.
 
 ## Usage
 
