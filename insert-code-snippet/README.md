@@ -1,5 +1,5 @@
-## Insert Code Bash Script
-Bash script designed to find closing head tag and insert new code snippet above it. Script targets `</head>` as capture group then substitutes capture group with code found in text file. The script then implements the code to any file ending in `.html`.
+## Insert Code Shell Script
+Shell script designed to find closing head tag and insert new code snippet above it. Script targets `</head>` as capture group then substitutes capture group with code found in text file. The script then implements the code to any file ending in `.html`.
 
 1. Update code.txt with desired code snippet.
 
