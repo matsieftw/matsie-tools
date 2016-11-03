@@ -4,10 +4,10 @@ Shell script designed to find closing head tag and insert new code snippet above
 1. Update code.txt with desired code snippet.
 
 2. Give user permissions to execute the script.
-`chmod +x insertCode.sh`
+  `chmod +x insertCode.sh`
 
 3. Execute the bash script.
-`./insertCode.sh`
+  `./insertCode.sh`
 
 ## Modify the Script to Your Needs
 
