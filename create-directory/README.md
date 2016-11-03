@@ -10,10 +10,10 @@ Copy contents of txt file and paste it into your `.bashrc`, `.zshrc` or whatever
 
 1. Usage while outside parent directory.
 
-`cmdir ~/Projects/matsie-tools`
+  `cmdir ~/Projects/matsie-tools`
 
 2. Usage while inside parent directory.
 
-`cmdir matsie-tools`
+  `cmdir matsie-tools`
 
 
