@@ -10,3 +10,6 @@ Shell function to make a subdirectory and then cd into it.
 
 3. **Return Key Clear Shell Script**<br/>
 Shell script to clear your shell (screen) after two retun key presses.
+
+4. Git Reminder Shell Script<br/>
+Shell script to broadcast random wall message to users logged onto a server.
